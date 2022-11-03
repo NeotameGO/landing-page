@@ -3,8 +3,9 @@ body {
     padding: 0;
 }
 
-.link {
+#link {
     display: flex;
+    color: #E5E7EB;
 }
 
 h4 {
@@ -19,9 +20,9 @@ h4 {
 .header-background {
     background-color: #1F2937;
     padding: 0px 100px 100px 100px;
+    color: #F9FAF8;
 }
 
 .header-elements2 {
     display: flex;
-    
 }
